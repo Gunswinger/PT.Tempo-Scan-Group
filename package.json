@@ -1,0 +1,24 @@
+{
+    "name": "tempo",
+    "version": "1.0.0",
+    "description": "challenge PT.Tempo Scan Group",
+    "main": "javascript.js",
+    "dependencies": {
+        "bootstrap": "^4.3.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gunswinger/PT.Tempo-Scan-Group.git"
+    },
+    "keywords": [
+        "PT.Tempo",
+        "Scan",
+        "Group"
+    ],
+    "author": "Sandiko Prastyo",
+    "license": "ISC"
+}

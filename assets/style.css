@@ -1,0 +1,56 @@
+html,
+body {
+    background-color: rgb(251, 249, 240);
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.container {
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header,
+h2:first-child {
+    color: #868B8E;
+    text-align: center;
+}
+
+header,
+h1 {
+    color: #E6669B;
+}
+
+header h1 span {
+    color: #E19F38;
+}
+
+#season1 {
+    color: #E6669B;
+}
+
+#season2 {
+    color: #E19F38;
+}
+
+#season3 {
+    color: #E19F38;
+}
+
+#season4 {
+    color: #E6669B;
+}
+
+#season5 {
+    color: #E19F38;
+}
+
+#footer {
+    color: #E19F38;
+}
+
+footer,
+img {
+    text-align: center;
+}
